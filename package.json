@@ -1,0 +1,41 @@
+{
+	"name": "cool-next-template",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"tailwind": "tailwind"
+	},
+	"keywords": [],
+	"author": "JVictorV",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/node": "^14.14.6",
+		"@types/react": "^16.9.55",
+		"@typescript-eslint/eslint-plugin": "^4.6.0",
+		"@typescript-eslint/parser": "^4.6.0",
+		"eslint": "^7.12.1",
+		"eslint-config-prettier": "^6.15.0",
+		"eslint-plugin-prettier": "^3.1.4",
+		"eslint-plugin-react": "^7.21.5",
+		"eslint-plugin-react-hooks": "^4.2.0",
+		"postcss-import": "^13.0.0",
+		"prettier": "^2.1.2",
+		"typescript": "^4.0.5"
+	},
+	"dependencies": {
+		"@xstate/react": "^1.0.1",
+		"framer-motion": "^2.9.4",
+		"next": "^10.0.0",
+		"react": "^17.0.1",
+		"react-dom": "^17.0.1",
+		"react-hook-form": "^6.9.6",
+		"react-icons": "^3.11.0",
+		"react-query": "^2.25.2",
+		"tailwindcss": "^2.0.0-alpha.3",
+		"xstate": "^4.13.0"
+	}
+}
