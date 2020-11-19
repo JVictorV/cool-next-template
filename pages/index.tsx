@@ -18,7 +18,7 @@ const Card: FC<{ title: string; description: string; icon: IconType }> = ({ titl
 const Index: FC = () => {
 	return (
 		<div className='h-full overflow-x-hidden'>
-			<div className='flex flex-col items-center justify-center h-almost-full'>
+			<div className='flex flex-col items-center justify-center h-5/6'>
 				<svg className='h-24 my-8' viewBox='0 0 116 100' fill='#000' xmlns='http://www.w3.org/2000/svg'>
 					<path fillRule='evenodd' clipRule='evenodd' d='M57.5 0L115 100H0L57.5 0z' />
 				</svg>
